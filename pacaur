@@ -101,8 +101,8 @@ Core() {
     IgnoreChecks
     DepsSolver
     IgnoreDepsChecks
-    ProviderChecks
-    ConflictChecks
+    #ProviderChecks
+    #ConflictChecks
     ReinstallChecks
     OutofdateChecks
     Prompt
